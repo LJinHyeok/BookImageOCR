@@ -4,7 +4,7 @@
 
 ## 한국어
 
-Book Image OCR PDF는 스캔본이나 캡처 이미지로만 이루어져 글자를 선택할 수 없는 PDF를 위한 Windows 프로그램입니다. 페이지 안의 본문 글자와 사진·도표·삽화 영역을 구분한 뒤, 본문에만 선택·검색·복사가 가능한 OCR 텍스트 레이어를 추가합니다. 원래 페이지 이미지는 그대로 유지하므로 책의 디자인과 사진, 그래프는 바뀌지 않습니다.
+Book Image OCR PDF는 PDF에서 선택이 안 되는 글자들을 선택할 수 있도록 만들어주는 Windows 프로그램입니다. 스캔본이나 캡처 이미지로만 이루어진 PDF에서 페이지 안의 본문 글자와 사진·도표·삽화 영역을 구분한 뒤, 본문에만 선택·검색·복사가 가능한 OCR 텍스트 레이어를 추가합니다. 원래 페이지 이미지는 그대로 유지하므로 책의 디자인과 사진, 그래프는 바뀌지 않습니다.
 
 ### 다운로드 및 실행
 
@@ -42,7 +42,7 @@ PDF와 인식된 텍스트는 외부 서버로 전송되지 않습니다. 사용
 
 ## English
 
-Book Image OCR PDF is a Windows application for scanned or image-only PDFs whose text cannot be selected. It distinguishes body text from photos, charts, and illustrations, then adds a selectable, searchable OCR text layer only to the body text. The original page image remains intact, preserving the book's design and visual content.
+Book Image OCR PDF is a Windows application that makes previously unselectable text in PDFs selectable. It distinguishes body text from photos, charts, and illustrations in scanned or image-only PDFs, then adds a selectable, searchable OCR text layer only to the body text. The original page image remains intact, preserving the book's design and visual content.
 
 ### Download and run
 
